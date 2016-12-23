@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="28240" started-at="2016-12-22T03:54:55Z" finished-at="2016-12-22T03:55:23Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="28240" started-at="2016-12-22T03:54:55Z" finished-at="2016-12-22T03:55:23Z">
+      <class name="com.vmetry.ntltaxi.testcases.HomePageTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.vmetry.ntltaxi.testcases.HomePageTest@331ee18e]" name="setup" is-config="true" duration-ms="8496" started-at="2016-12-22T09:24:55Z" finished-at="2016-12-22T09:25:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="validateHomePage(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.vmetry.ntltaxi.testcases.HomePageTest@331ee18e]" name="validateHomePage" duration-ms="10452" started-at="2016-12-22T09:25:05Z" data-provider="HomePageTest" finished-at="2016-12-22T09:25:15Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[HomePageTest_DataSet2]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[vinoth]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[9898989898]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[adyar]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[adyar]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[Sedan]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateHomePage -->
+        <test-method status="PASS" signature="teardown(org.testng.ITestResult)[pri:0, instance:com.vmetry.ntltaxi.testcases.HomePageTest@331ee18e]" name="teardown" is-config="true" duration-ms="826" started-at="2016-12-22T09:25:15Z" finished-at="2016-12-22T09:25:16Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=validateHomePage status=SUCCESS method=HomePageTest.validateHomePage(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.vmetry.ntltaxi.testcases.HomePageTest@331ee18e] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method status="PASS" signature="validateHomePage(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.vmetry.ntltaxi.testcases.HomePageTest@331ee18e]" name="validateHomePage" duration-ms="1656" started-at="2016-12-22T09:25:16Z" data-provider="HomePageTest" finished-at="2016-12-22T09:25:18Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[HomePageTest_DataSet3]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[kumar]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[1234567890]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[adyar]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[adyar]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[Sedan]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateHomePage -->
+        <test-method status="PASS" signature="teardown(org.testng.ITestResult)[pri:0, instance:com.vmetry.ntltaxi.testcases.HomePageTest@331ee18e]" name="teardown" is-config="true" duration-ms="671" started-at="2016-12-22T09:25:18Z" finished-at="2016-12-22T09:25:19Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=validateHomePage status=SUCCESS method=HomePageTest.validateHomePage(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.vmetry.ntltaxi.testcases.HomePageTest@331ee18e] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method status="PASS" signature="validateHomePage(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.vmetry.ntltaxi.testcases.HomePageTest@331ee18e]" name="validateHomePage" duration-ms="1607" started-at="2016-12-22T09:25:19Z" data-provider="HomePageTest" finished-at="2016-12-22T09:25:20Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[HomePageTest_DataSet4]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[sunil]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[9876543210]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[adyar]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[adyar]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[Sedan]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateHomePage -->
+        <test-method status="PASS" signature="teardown(org.testng.ITestResult)[pri:0, instance:com.vmetry.ntltaxi.testcases.HomePageTest@331ee18e]" name="teardown" is-config="true" duration-ms="749" started-at="2016-12-22T09:25:20Z" finished-at="2016-12-22T09:25:21Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=validateHomePage status=SUCCESS method=HomePageTest.validateHomePage(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.vmetry.ntltaxi.testcases.HomePageTest@331ee18e] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method status="PASS" signature="validateHomePage(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.vmetry.ntltaxi.testcases.HomePageTest@331ee18e]" name="validateHomePage" duration-ms="1778" started-at="2016-12-22T09:25:21Z" data-provider="HomePageTest" finished-at="2016-12-22T09:25:23Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[HomePageTest_DataSet5]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[hakkim]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[6789054321]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[adyar]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[adyar]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[Sedan]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateHomePage -->
+        <test-method status="PASS" signature="teardown(org.testng.ITestResult)[pri:0, instance:com.vmetry.ntltaxi.testcases.HomePageTest@331ee18e]" name="teardown" is-config="true" duration-ms="733" started-at="2016-12-22T09:25:23Z" finished-at="2016-12-22T09:25:23Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=validateHomePage status=SUCCESS method=HomePageTest.validateHomePage(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.vmetry.ntltaxi.testcases.HomePageTest@331ee18e] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.vmetry.ntltaxi.testcases.HomePageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
